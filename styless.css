@@ -1,0 +1,30 @@
+.nav-link.active{
+    color:dodgerblue !important;
+    border-color: white !important;
+}
+
+.nav-link{
+    color:grey ;
+    border-color: white !important;
+}
+.nav-tabs, .nav-link:hover, .nav-item{
+    border-color: white !important;
+}
+
+img{
+    object-fit: contain !important;
+    max-width: 100% !important;
+}
+.card-body p{
+    font-size:small;
+}
+.card-header{
+    height: 40px;
+}
+.card{
+    width: 50% !important; 
+    padding-bottom: 40px;
+}
+.col-4 img{
+    object-fit: cover !important;
+}
